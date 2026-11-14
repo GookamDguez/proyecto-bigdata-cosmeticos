@@ -1,0 +1,20 @@
+paso,valor,esperado,resultado,detalle
+meses con columnas y tipos idénticos,True,True,OK,24 columnas
+eventos fuera del mes de su archivo,0,0,OK,""
+pares de meses con fechas superpuestas,0,0,OK,""
+filas tras unir los 5 meses,20692840,20692840,OK,debe ser la suma de los meses
+filas en productos = product_id distintos,54571,54571,OK,""
+product_id único en productos,0,0,OK,""
+producto_multicategoria,1619,"","",""
+producto_multimarca,24,"","",""
+producto_sin_marca,23473,"","",""
+producto_marca_recuperable,12244,"","",""
+producto_precio_negativo,5,"","",""
+filas tras unir con productos,20692840,20692840,OK,""
+eventos con marca nula (original),8757117,"","",""
+eventos con marca recuperada,98300,"","",""
+eventos que quedan con marca 'unknown',8658817,8658817,OK,""
+sesiones distintas (sin nulas),4535941,"","",""
+sesiones con más de un user_id,272,"","",""
+sesiones que cruzan de un mes a otro,14230,"","",las tablas de sesiones deben construirse con los 5 meses unidos
+filas guardadas en eventos.parquet,20692840,20692840,OK,""

@@ -1,0 +1,7 @@
+archivo,filas_entrada,fechas_invalidas,textos_modificados_event_type,textos_modificados_category_code,textos_modificados_brand,duplicados_exactos_marcados,precio_cero,precio_negativo,sesion_nula,marca_nula,category_code_nulo,filas_eliminadas,filas_salida,memoria_originales_antes_mib,memoria_originales_despues_mib,memoria_total_salida_mib
+2019-Oct,4102283,0,0,0,0,213155,6066,20,637,1659261,4034806,0,4102283,397.5,301.7,410.8
+2019-Nov,4635837,0,0,0,0,246693,11625,17,813,1986029,4560089,0,4635837,449.7,340.9,464.2
+2019-Dec,3533286,0,0,0,0,183860,7589,18,779,1510289,3474821,0,3533286,342.0,259.9,353.8
+2020-Jan,4264752,0,0,0,0,225100,7623,39,1314,1775630,4190033,0,4264752,413.3,313.6,427.0
+2020-Feb,4156682,0,0,0,0,240290,71254,37,1055,1825908,4079497,0,4156682,402.6,305.7,416.2
+TOTAL,20692840,0,0,0,0,1109098,104157,131,4598,8757117,20339246,0,20692840,2005.1,1521.8,2072.0

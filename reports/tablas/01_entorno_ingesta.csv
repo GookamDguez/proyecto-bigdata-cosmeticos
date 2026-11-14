@@ -1,0 +1,2 @@
+fecha_ejecucion,sistema,procesador,ram_total_gib,python,polars,duracion_total_s,pandas
+2026-11-13T18:47:50,Windows 11,"Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",15.79,3.13.2,2.1.0,54.7,3.0.5

@@ -1,0 +1,13 @@
+indicador,antes,despues,regla
+Eventos,20692840,19583742,Base de análisis sin duplicados exactos
+Duplicados exactos,1109098,0,Se conserva la primera aparición
+Retiros por cada 100 adiciones al carrito,69.0,52.9,""
+Eventos sin marca,8757117,8178072,Marca recuperada desde el producto
+Eventos con precio 0 sin precio válido para montos,104157,2279,precio_analisis = mediana positiva del producto
+Eventos con precio negativo usados en montos,131,0,precio_analisis vacío
+Eventos con precio_analisis no positivo,-,0,""
+Eventos sin precio_analisis,-,2403,""
+Sesiones distintas,4535941,4535669,Tabla de sesiones sin multiusuario
+Eventos sin sesión en la tabla de sesiones,4598,0,Se conservan en la tabla de usuarios
+Productos con varias categorías sin regla de asignación,1619,0,Una categoría principal por producto
+Sesiones de compra masiva en el modelo,138,0,Marcadas y excluidas de la población del modelo

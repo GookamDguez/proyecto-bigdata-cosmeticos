@@ -1,0 +1,15 @@
+paso,valor,esperado,resultado,detalle
+filas en sesiones = sesiones válidas,4535669,4535669,OK,""
+user_session único en sesiones,0,0,OK,""
+sesiones con carrito,985698,"","",""
+sesiones con compra,155595,"","",""
+sesiones con compra sin carrito en la sesión,29327,"","",""
+sesiones con compra antes del primer carrito,1036,"","",""
+sesiones de compra masiva,138,"","",""
+sesiones en la población del modelo,984555,"","",""
+sesiones de la población con compra,125125,"","",""
+historial calculado solo con sesiones terminadas antes,True,True,OK,join_asof estricto sobre el fin de las sesiones previas
+filas en usuarios = user_id distintos,1639358,1639358,OK,""
+usuarios compradores,110518,"","",""
+usuarios con sesión de compra masiva,130,"","",""
+usuarios en la población de segmentación,110388,"","",""

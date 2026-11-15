@@ -1,0 +1,4 @@
+distribucion,media,p25,p50,p75,p90,p99,maximo
+eventos por sesión,4.316386623450697,1.0,1.0,3.0,9.0,52.0,5317
+compras por sesión con compra,8.265002088756065,3.0,6.0,10.0,17.0,44.0,429
+sesiones por usuario,2.7678222069256746,1.0,1.0,2.0,4.0,27.0,17403

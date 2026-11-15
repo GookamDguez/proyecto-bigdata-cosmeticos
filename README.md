@@ -1,10 +1,14 @@
 # Proyecto de Big Data: comportamiento de compra en una tienda de cosméticos en línea
 
-Asignatura: Big Data · Docente: PhD. Alexander Ramírez Camargo · Universidad del Salvador
+## Universidad del Salvador
+Asignatura: Big Data 
+Docente: PhD. Alexander Ramírez Camargo
 Metodología: CRISP-DM adaptada en cuatro fases (entrega actual: fases 1 y 2).
 
-**Equipo:** Rodrigo (coordinación y documentación) · Gabriela (ingeniería de datos) ·
-Alejandro (exploración y modelado).
+**Equipo:** 
+- Domínguez Hernández, Gabriela Marisol | dh25008
+- Sorto Choto, Carlos Alejandro | sc16034
+- Francia Quezada, Rodrigo Jesús | fq25003
 
 ## Fuente de datos
 
